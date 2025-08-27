@@ -1,0 +1,14 @@
+{
+    "name": "vasda",
+    "age": 301,
+    "is_student": false,
+    "courses": [
+        "python",
+        "qa auto",
+        "api test"
+    ],
+    "addres": {
+        "city": "moscow",
+        "zip": "300020"
+    }
+}
